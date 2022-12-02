@@ -3,8 +3,10 @@ Venus
 Earth
  - Moon
 Mars
+Ceres
 Jupiter
 Saturn
 Uranus
 Neptune
 Pluto
+Elis
