@@ -4,7 +4,9 @@ Earth
  - Moon
 Mars
 Jupiter
+ - Europa
 Saturn
+ - Titan
 Uranus
 Neptune
 Pluto
