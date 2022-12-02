@@ -4,3 +4,7 @@ Earth
  - Moon
 Mars
 Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
